@@ -131,3 +131,19 @@ code {
   background-color: rgb(var(--mui-palette-info-mainChannel) / 0.08);
   border: 0;
 }
+
+/* Salary Schedule Styles */
+.shortage-row {
+  background-color: #ffebee !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-cell {
+  white-space: normal !important;
+  line-height: 1.2 !important;
+  padding: 8px !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeader {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}

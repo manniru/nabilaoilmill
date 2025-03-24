@@ -110,6 +110,12 @@ const VerticalMenu = ({ scrollMenu }: Props) => {
           <MenuItem href='/apps/chat' icon={<i className='ri-wechat-line' />}>
             chat
           </MenuItem>
+          <MenuItem href='/nabila/employees' icon={<i className='ri-bill-line' />}>
+            Employees Records
+          </MenuItem>
+          <MenuItem href='/nabila/salaries' icon={<i className='ri-bill-line' />}>
+            Salary Schedule
+          </MenuItem>
         </MenuSection>
 
         <MenuSection label='appsPages'>
